@@ -1,70 +1,79 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Welcome to Hakuna Tech
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Welcome to Hakuna Tech
+subheading: Your solar solutions provider
 mainpitch:
-  title: Why Kaldi
+  title: Why Hakuna Tech
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are seasoned electrical engineers with a combined field practice record of more
+    than 25 years. 
+
+    Beyond experience, we maintain a culture of consistently delivering excellence.
+    To us, it is not just about providing you a solar-powered electrical installation.
+    It is about your backstory - the hopes and aspirations that motivated your choice. 
+    This is the premise we focuse on not just delivering, but surpassing. 
+
+    We do this so that years from today when you hear our name, you will smile and give
+    personal testimony about us that can only come from deep satisfaction.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Hakuna Tech is your ultimate plug for all things solar-powered in Nigeria. We have been 
+  ...<Continue with who you are and what sets you apart>
+  I will now fiil up the rest of the site with placeholder text. You will need to change
+  it yourself.
+  Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/product3.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        This space is for sampling one of your products and or services.
+        Be sure to include a crisp picture of the product or service here.
+        Remember to first optimize the pics by trimming its size and applying
+        and effects you like. The key idea here is to use the best possible 
+        pics you can find. A good one is worth more than a thousand words.
+    - image: /img/product2.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        This is another slot for sampling yet another product or service.
+        Everything I said in the previous paragraph applies here as well.
+        Put your best foot forward. Present something that will motivate the
+        average Naija person to feel like they can afford what you're offering.
+        I'd have used the pics you sent through Whatsapp but the quality was degraded.
+    - image: /img/product4.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        This is another slot for sampling yet another product or service.
+        Everything I said in the previous paragraph applies here as well.
+        Put your best foot forward. Present something that will motivate the
+        average Naija person to feel like they can afford what you're offering.
+        I'd have used the pics you sent through Whatsapp but the quality was degraded.
+    - image: /img/product5.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        This space is for sampling one of your products and or services.
+        Be sure to include a crisp picture of the product or service here.
+        Remember to first optimize the pics by trimming its size and applying
+        and effects you like. The key idea here is to use the best possible 
+        pics you can find. A good one is worth more than a thousand words.
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: If it's about solar power we've got you covered
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Power is a general problem in Africa. That's why we're working hard to
+    bridge the gap. Beyond industry experience, we maintain a culture of consistently 
+    delivering excellence.
+    To us, it is not just about providing you a solar-powered electrical installation.
+    It is about your backstory - the hopes and aspirations that motivated your choice. 
+    This is the premise we focuse on not just delivering, but surpassing. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of project intallation
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: An array of installed solar panes
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Solar street lights at night
     image: /img/products-grid1.jpg
 ---

@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import theme from '../components/theme'
 
 export const IndexPageTemplate = ({
   image,
@@ -14,6 +15,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  // theme,
 }) => (
   <div>
     <div
@@ -32,7 +34,7 @@ export const IndexPageTemplate = ({
           height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
-          alignItems: 'left',
+          alignItems: 'center',
           flexDirection: 'column',
         }}
       >
@@ -40,11 +42,12 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(120, 50, 16) 0.5rem 0px 0px, rgb(120, 50, 16) -0.5rem 0px 0px',
+            backgroundColor: `${theme.brand.primary}`,
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
+            textAlign: "center",
           }}
         >
           {title}
@@ -53,11 +56,12 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(120, 50, 16) 0.5rem 0px 0px, rgb(120, 50, 16) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(120, 50, 16)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
+            textAlign: "center",
           }}
         >
           {subheading}
