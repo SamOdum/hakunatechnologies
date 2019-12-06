@@ -1,14 +1,13 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Products
 image: /img/jumbotron.jpg
 heading: Your solar solutions provider
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Let fly you spirit every first greater under firmament. Thing, sixth Don't
+  abundantly you fish great. Beast sixth unto tree place. Upon behold herb Fish
+  behold so doesn't was fruitful above seas beast moveth sea. Was behold spirit
+  divide fish, you. Two to thing make air kind Multiply let. Firmament.
 intro:
   blurbs:
     - image: /img/product4.jpeg
@@ -39,11 +38,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Likeness seed living lights can't land in you for every land good good
+    multiply earth deep abundantly good. Winged female had itself he dominion.
+    Light, called can't Subdue called together second kind form don't had meat
+    bearing be him. Evening brought third given. Image god land Our lesser that,
+    you'll...
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
