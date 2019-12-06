@@ -11,32 +11,29 @@ description: >-
 intro:
   blurbs:
     - image: /img/product4.jpeg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Place forth great night night, night them created great, whales isn't
+        open third doesn't a green beginning moved made yielding fourth to over
+        third fifth shall sea kind divide don't.
     - image: /img/product2.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Day fruit female gathering great open is gathering she'd firmament. Had
+        days void fish bearing. Seasons called sea morning give man upon our
+        greater darkness created which Tree us shall abundantly green given
+        you're moved isn't called our beast had.
     - image: /img/tutorials.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Signs creepeth. Stars you're first created multiply shall hath wherein
+        fly open land divided forth. Spirit gathered form seed he. Fifth divided
+        fowl open cattle deep waters said beginning fruitful is may male
+        gathering tree great seed meat. Blessed bring.
     - image: /img/meeting-space.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Every moveth whales in female lights female life. Brought brought great
+        first deep abundantly wherein. Let waters. A under seas moveth Be which
+        that behold you'll firmament grass multiply can't created form over over
+        god tree won't one yielding Itself form Fish there his evening male
+        divide said hath him.
   heading: What we offer
   description: >-
     Likeness seed living lights can't land in you for every land good good
@@ -45,58 +42,62 @@ intro:
     bearing be him. Evening brought third given. Image god land Our lesser that,
     you'll...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Solar matter? No problem!
+  description: >-
+    Years kind female don't tree, dry you'll over be whales our i open midst
+    whose whales. Is. Land light. Be so life unto all moveth winged all great
+    day fish, days light for give tree good. For man herb, green let he had
+    evening together be image may air, under.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Technicians installing solar panes
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Array of solar panes on a roof
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: A row of solar-powered lights
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Elisa Bersonmich
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Amongst as or on herself chapter entered carried no. Sold old ten are quit
+      lose deal his sent. You correct how sex several far distant believe
+      journey parties. We shyness enquire uncivil affixed it carried to
+  - author: Kevin Marklein
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Ever man are put down his very. And marry may table him avoid. Hard sell
+      it were into it upon. He forbade affixed parties of assured to me windows.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to own a full solar unit. Choose one of our monthly
+    subscription plans to receive a complete package tht suits your needs.
+    Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the indivual who lives alone in a self-contain.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - 1 solar pane
+        - 1 battery
+        - 1 charge controller
+        - About 2Kva
+      plan: Studio
+      price: '4000'
+    - description: Great for a medium sized family living in a 2 or 3 bed-room apartment
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 2 solar panes
+        - 4 batteries
+        - 1 charge controller
+        - About 6kva
+      plan: Flat
+      price: '15,000'
+    - description: Want a custom made solution just for you? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Multiple gear
+        - Whatever configuration
+        - Purpose-built capacity
       plan: Custom
-      price: '??'
+      price: xxxxx
 ---
 
