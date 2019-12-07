@@ -58,15 +58,14 @@ main:
     alt: A row of solar-powered lights
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisa Bersonmich
+  - author: Emmanuela Ademola
     quote: >-
-      Amongst as or on herself chapter entered carried no. Sold old ten are quit
-      lose deal his sent. You correct how sex several far distant believe
-      journey parties. We shyness enquire uncivil affixed it carried to
+      I have known Darlignton since 2008. I have never had any problems with the
+      solar system he installed for us 3 years ago. I recommend him 100%.
   - author: Kevin Marklein
     quote: >-
-      Ever man are put down his very. And marry may table him avoid. Hard sell
-      it were into it upon. He forbade affixed parties of assured to me windows.
+      Hakuna is the real deal. I really like that they told me the truth. I
+      spent more but I'm enjoying it., especially their after-sales service.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
