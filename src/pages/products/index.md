@@ -73,7 +73,7 @@ pricing:
   description: >-
     We make it easy to own a full solar unit. Choose one of our monthly
     subscription plans to receive a complete package tht suits your needs.
-    Contact us about more details and payment info.
+    Contact us for more details and payment info.
   plans:
     - description: Perfect for the indivual who lives alone in a self-contain.
       items:
