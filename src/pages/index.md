@@ -5,16 +5,18 @@ image: /img/home-jumbotron.jpg
 heading: Welcome to Hakuna Tech
 subheading: Your solar solutions provider
 mainpitch:
-  title: Why Hakuna Tech
+  title: Why Hakuna Tech?
   description: >
     We are seasoned electrical engineers with a combined field practice record
-    of more than 25 years. 
+    for years.
+
 
     Beyond experience, we maintain a culture of consistently delivering
     excellence. To us, it is not just about providing you a solar-powered
     electrical installation. It is about your backstory - the hopes and
     aspirations that motivated your choice.  This is the premise we focuse on
     not just delivering, but surpassing. 
+
 
     We do this so that years from today when you hear our name, you will smile
     and give personal testimony about us that can only come from deep
