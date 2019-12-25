@@ -61,10 +61,12 @@ intro:
         find. A good one is worth more than a thousand words.
   heading: Wonder mega
   description: >-
-    Living signs saw our replenish gathering darkness first whales earth great
-    Wherein fly for open darkness sea fish own one, may. Rule blessed divided
-    were she'd gathering there together kind evening beginning saw give, image
-    called night herb bring fill man...
+    We research at every available chance on various ways solar energy can be
+    applied by our valuable customers in their daily lives. Ranging from
+    domestic industrial, business and recreation. We developed a pattern to
+    enables us to gather empirical data that helps us to easily identity
+    customers with matching power needs and thus design a system with
+    appropriate specifications.
 main:
   heading: If it's about solar power we've got you covered
   description: >
