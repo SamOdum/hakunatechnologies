@@ -1,28 +1,43 @@
 ---
 templateKey: blog-post
-title: How solar energy saves you money
-date: 2019-10-15T15:04:10.000Z
+title: WHY DRINK AND DRIVE WHEN YOU CAN SMOKE AND FLY?
+date: 2019-12-26T22:00:00.000Z
+description: How Solar Saves Money
 featuredpost: false
-featuredimage: /img/photo-1490474418585-ba9bad8fd0ea.jpg
-description: Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui.
+featuredimage: /img/products-grid3.jpg
 tags:
   - solar power
   - electricity
   - renewable power
+  - streetlights
+  - inverters
+  - solar panels
+  - photovoltaics
+  - UNDP
+  - 'SDG#7'
+  - UN Ugandan
+  - tef
 ---
+If you run a simple calculation of your energy expense for a period of one year, you'll identify well with the above caption.
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Let's look at this together. Your cost of lighting up your home for a year.
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+Generator purchase N120,000 (depending on brand and capacity)
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+Routine maintenance N7,000 X 12 = N84,000
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
+Daily fuel/gas N1,500 X 30 = N45,000 X 12 = N540,000
 
-### Cras semper consectetur elementum
+Total N744,000
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Environmental and noise pollution = medical bills.
 
-![unsplash.com](/img/photo-1490474418585-ba9bad8fd0ea.jpg)
+The above simple calculation is what it costs an average person in Nigeria and others in some Africa counties to power their homes for few hours each day (not 24/7) for a year.
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+NOW THE DISRUPTION 
+
+It costs less than what is spent a year on traditional power generating sets to install a renewable energy system (solar) that can power a home for 24 hours, uninterrupted, for the next 25 years.
+
+In connection with the United Nations Sustainable Development Goals 7 (SDG#7), Hakuna Tech Ltd is positioned to save the planet, light up communities and support SMEs. 
+
+Contact our technical team for domestic and industrial solar installations, streetlights and government contracts.
