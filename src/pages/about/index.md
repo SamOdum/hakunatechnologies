@@ -10,11 +10,11 @@ We plan and build solar systems that translate performance and reliability into 
 
 ### Diligence
 
-Fill fruit wherein after fifth upon midst fish appear third one the his above without creeping us. Place evening all. Wherein moveth our fruit under it fly deep seas shall from dry had called had make. Over night hath whales. Had was whose third. Blessed whales spirit fruitful be sea.
+Passion for excellence is the driving force behind our consistconsistency and resilience in service delivery and development of value chain in the application of renewable energy in various needs and niches. 
 
 ### Empathy
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Sustainable energy  is harvesting renewable energy  in sustainable ways based on an understanding of ecosystem services, the study of relationships between the sun, prevailing weather conditions and solar equipment... these are a matter of choice and careful consideration for nature and communities.
 
 ### Support
 
