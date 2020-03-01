@@ -6,7 +6,7 @@ title: About our values
 
 Honesty remains the best policy. 
 
-We plan and build solar systems that translates performance and reliability into integrity, making sure that value for money is guaranteed.
+We plan and build solar systems that translate performance and reliability into integrity, making sure that value for money is guaranteed.
 
 ### Diligence
 
