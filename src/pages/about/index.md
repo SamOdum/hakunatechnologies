@@ -4,9 +4,9 @@ title: About our values
 ---
 ### Intergrity
 
-Honest remains the best policy. 
+Honesty remains the best policy. 
 
-We plan and build solar systems that translates performance and reliability to integrity, making sure that value for money is guaranteed 
+We plan and build solar systems that translates performance and reliability into integrity, making sure that value for money is guaranteed.
 
 ### Diligence
 
