@@ -10,7 +10,7 @@ We plan and build solar systems that translate performance and reliability into 
 
 ### Diligence
 
-Passion for excellence is the driving force behind our consistconsistency and resilience in service delivery and development of value chain in the application of renewable energy in various needs and niches. 
+Passion for excellence is the driving force behind our consistency and resilience in service delivery and development of value chain in the application of renewable energy in various needs and niches. 
 
 ### Empathy
 
