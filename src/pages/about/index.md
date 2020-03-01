@@ -4,7 +4,9 @@ title: About our values
 ---
 ### Intergrity
 
-And. Creepeth earth may moveth, creepeth fowl own. Night. Be two second every green. Our said first. Divided appear our moveth Man. Good night fruitful whales bring had you light every were appear from fly dominion hath unto lights replenish spirit shall heaven form gathering, blessed him wherein. Night cattle together. Without fourth, divided isn't moveth under rule yielding together waters third were fly living, seas. Green female two be.
+Honest remains the best policy. 
+
+We plan and build solar systems that translates performance and reliability to integrity, making sure that value for money is guaranteed 
 
 ### Diligence
 
