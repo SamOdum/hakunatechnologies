@@ -58,7 +58,7 @@ main:
     alt: A row of solar-powered lights
     image: /img/products-grid1.jpg
 testimonials:
-  - author: 'Udezue Previous '
+  - author: 'Mr. Udezue Previous '
     quote: >-
       I have known Darlignton since 2008. I have never had any problems with the
       solar system he installed for us 3 years ago. I recommend him 100%.
@@ -74,14 +74,18 @@ pricing:
     subscridption plans to receive a complete package tht suits your needs.
     Contact us for more details and payment info.
   plans:
-    - description: Perfect for the indivual who lives alone in a self-contain.
+    - description: >-
+        Perfect for the indivuals who live in a self-contain or mini-flats
+        apartment with basic appliances, such as fans, tv set, audio systems,
+        DVD players,decoder, lighting points, hair clippers, phones, laptops and
+        tablets,  etc.
       items:
-        - 1 solar pane
-        - 1 battery
+        - 200w X 3 solar panels
+        - 200ah X 1 deep  battery
         - 1 charge controller
-        - About 2Kva
-      plan: Studio
-      price: '4000'
+        - a 1000w hybrid inverter and installation accessories
+      plan: 'pwrPack (basic)  '
+      price: 'N25,000 monthly payment for 15 months. '
     - description: Great for a medium sized family living in a 2 or 3 bed-room apartment
       items:
         - 300w solar panels X 8 modules
