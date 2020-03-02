@@ -71,7 +71,7 @@ pricing:
   heading: Monthly subscriptions
   description: >-
     We make it easy to own a full solar unit. Choose one of our monthly
-    subscridption plans to receive a complete package tht suits your needs.
+    subscridption plans to receive a complete package that suits your needs.
     Contact us for more details and payment info.
   plans:
     - description: >-
