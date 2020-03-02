@@ -66,7 +66,7 @@ testimonials:
     quote: >-
       Hakuna is the real deal. I really like that they told me the truth. I
       spent more but I'm enjoying it., especially their after-sales service.
-full_image: /img/products-full-width.jpg
+full_image: /img/20200220_143129.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
