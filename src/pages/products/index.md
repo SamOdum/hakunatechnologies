@@ -84,12 +84,13 @@ pricing:
       price: '4000'
     - description: Great for a medium sized family living in a 2 or 3 bed-room apartment
       items:
-        - 300w solar panes X 3
+        - 300w solar panels X 8 modules
         - two deep cycle batteries
         - 1 MPPT charge controller
         - 2.5kva hybrid inverter
-      plan: 'One time payment/flexible payment plan '
-      price: 'N750,000'
+        - installation accessories/kit.
+      plan: One time payment  (otp)
+      price: 'N700, 000'
     - description: Want a custom made solution just for you? Try our custom plan
       items:
         - Whatever you need
