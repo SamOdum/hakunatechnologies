@@ -58,7 +58,7 @@ main:
     alt: A row of solar-powered lights
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Emmanuela Ademola
+  - author: 'Udezue Previous '
     quote: >-
       I have known Darlignton since 2008. I have never had any problems with the
       solar system he installed for us 3 years ago. I recommend him 100%.
