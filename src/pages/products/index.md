@@ -75,13 +75,13 @@ pricing:
     Contact us for more details and payment info.
   plans:
     - description: >-
-        Perfect for the indivuals who live in a self-contain or mini-flats
-        apartment with basic appliances, such as fans, tv set, audio systems,
-        DVD players,decoder, lighting points, hair clippers, phones, laptops and
-        tablets,  etc.
+        Perfect for the indivuals who live in  self-contain or mini-flat
+        apartments with basic appliances, such as fans, tv-set, audio systems,
+        DVD players,decoder, up to 12 lighting points, hair clippers, phones,
+        laptops and tablets,  etc.
       items:
         - 200w X 3 solar panels
-        - 200ah X 1 deep  battery
+        - 200ah X 1 deep cycle battery
         - 1 charge controller
         - a 1000w hybrid inverter and installation accessories
       plan: 'pwrPack (basic)  '
