@@ -14,7 +14,7 @@ Passion for excellence is the driving force behind our consistency and resilienc
 
 ### Empathy
 
-At Hakuna Tech, ustainable energy  means harvesting renewable energy  in sustainable ways based on understanding of ecosystem services, the study of relationships between the sun, prevailing weather conditions and solar equipment... these are a matter of choice and careful consideration for nature and communities.
+At Hakuna Tech, ustainable energy  means harvesting renewable energy  in sustainable ways, based on understanding of ecosystem services, the study of relationships between the sun, prevailing weather conditions and solar equipment... these are a matter of choice and careful consideration for nature and communities.
 
 ### Support
 
