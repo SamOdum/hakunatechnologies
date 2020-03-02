@@ -94,7 +94,7 @@ pricing:
         - 2.5kva hybrid inverter
         - installation accessories/kit.
       plan: One time payment  (otp)
-      price: 'N700, 000'
+      price: 'N699,000'
     - description: Want a custom made solution just for you? Try our custom plan
       items:
         - Whatever you need
