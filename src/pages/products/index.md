@@ -49,10 +49,10 @@ main:
     day fish, days light for give tree good. For man herb, green let he had
     evening together be image may air, under.
   image1:
-    alt: Technicians installing solar panes
+    alt: 'Technicians installing solar panels '
     image: /img/products-grid3.jpg
   image2:
-    alt: Array of solar panes on a roof
+    alt: Array of solar panels on a roof
     image: /img/products-grid2.jpg
   image3:
     alt: A row of solar-powered lights
@@ -71,7 +71,7 @@ pricing:
   heading: Monthly subscriptions
   description: >-
     We make it easy to own a full solar unit. Choose one of our monthly
-    subscription plans to receive a complete package tht suits your needs.
+    subscridption plans to receive a complete package tht suits your needs.
     Contact us for more details and payment info.
   plans:
     - description: Perfect for the indivual who lives alone in a self-contain.
