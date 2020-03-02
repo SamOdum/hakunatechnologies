@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to the official website of Hakuna Tech. Ltd
+title: The official website of Hakuna Tech. Ltd
 image: /img/home-jumbotron.jpg
 heading: Welcome to Hakuna Tech
 subheading: Your solar solutions provider
