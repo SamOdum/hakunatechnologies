@@ -16,6 +16,6 @@ tags:
 
 Mission 1.5 aims to give 20 million people around the world the opportunity to have their say on ways to limit climate change that they want to see adopted by government leaders. The campaign, led by the United Nations Development Programme (UNDP), hopes to address the disconnect between citizens and governments that has seen a groundswell of public opinion by citizens around the world, including school strikes and mass protests. 
 
-\    Read More...
+Read More...
 
 https://www.reachnotpreach.com/
