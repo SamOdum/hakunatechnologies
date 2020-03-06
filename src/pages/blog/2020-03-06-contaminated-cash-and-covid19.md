@@ -6,7 +6,7 @@ description: 'Contaminated cash may spread coronavirus, World Health Organizatio
 featuredpost: true
 featuredimage: /img/gettyimages-1203473585.jpg
 tags:
-  - '#Covid19  #healthnews'
+  - '#Covid19  #healthnews #whothehellisevangeline #virus'
 ---
 The World Health Organization (WHO) has advised people to wash their hands and stop using cash if possible as the paper bills may help spread coronavirus.
 
