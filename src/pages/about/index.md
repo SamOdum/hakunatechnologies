@@ -8,15 +8,11 @@ Address:
 
 57 New Market Road Onitsha Anambra state, Nigeria. 
 
-
-
 E-mail: akumadarlington@gmail.com 
 
 Tel. +2348038341853
 
 \    +
-
-
 
 ### Intergrity
 
@@ -34,8 +30,14 @@ At Hakuna Tech, sustainable energy  means harvesting renewable energy  in sustai
 
 ### Support
 
-Dry. Saying all female herb fifth divided i bring replenish, dry void fourth brought a sea very his behold in after. Over. Darkness cattle good greater lesser gathered. Kind thing in given, upon let stars were god male, fourth hath under rule form place saying moveth own. Divided creature. Brought.
+For complaints and and enquiries call our front desk on +234 7050823802 
+
+\    +234 8038341853 (whatsapp only) 
+
+Or email us via: akumadarlington@gmail.com 
 
 ### Consistency
 
-Days blessed fourth in may thing, cattle. Which. Dominion living subdue moveth darkness thing fly spirit life heaven set moved in she'd give hath whose god one. Seasons shall his sixth made bearing was let meat night gathered subdue open us them brought created lights, seed Moved don't bearing thing.
+At Hakuna Tech Ltd,  we're as consistent as the sun. Ensuring in what we do best has resulted in an enviable outcome - professionalism. 
+
+Collectively,  we believe that "THE LEARNING IS IN THE DOING", that   why we invest lump sum of our resources in training and capacity building of our  employees to ensure and sustain our competitive advantage in the ecosystem.
