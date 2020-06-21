@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About us & values
+title: About us & our values
 ---
 **Contact**:
 
