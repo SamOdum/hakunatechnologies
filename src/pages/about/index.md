@@ -1,7 +1,23 @@
 ---
 templateKey: about-page
-title: About our values
+title: About us & values
 ---
+**Contact**:
+
+Address: 
+
+57 New Market Road Onitsha Anambra state, Nigeria. 
+
+
+
+E-mail: akumadarlington@gmail.com 
+
+Tel. +2348038341853
+
+\    +
+
+
+
 ### Intergrity
 
 Honesty remains the best policy. 
