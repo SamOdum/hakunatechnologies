@@ -10,9 +10,7 @@ Address:
 
 E-mail: akumadarlington@gmail.com 
 
-Tel. +2348038341853
-
-\    +
+Tel. +2348038341853,  +703104310023
 
 ### Intergrity
 
