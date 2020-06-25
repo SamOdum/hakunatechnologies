@@ -9,7 +9,7 @@ description: >-
 
   Is that easy, sign up by filling the form below through the link.
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/products-grid3.jpg
 tags:
   - HTl flexible payment forms
   - ''
