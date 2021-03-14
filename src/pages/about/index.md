@@ -28,7 +28,7 @@ At Hakuna Tech, sustainable energy  means harvesting renewable energy  in sustai
 
 For complaints and and enquiries call our front desk on +234 7050823802 
 
-\    +234 8038341853 (whatsapp only) 
++234 8038341853 (whatsapp only) 
 
 Or email us via: akumadarlington@gmail.com 
 
