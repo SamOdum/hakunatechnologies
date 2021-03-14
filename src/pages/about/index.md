@@ -22,8 +22,6 @@ We plan and build solar systems that translate performance and reliability into 
 
 Passion for excellence is the driving force behind our consistency and resilience in service delivery and development of value chain in the application of renewable energy in various needs and niches. 
 
-
-
 At Hakuna Tech, sustainable energy  means harvesting renewable energy  in sustainable ways, based on understanding of ecosystem services, the study of relationships between the sun, prevailing weather conditions and solar equipment... these are a matter of choice and careful consideration for nature and communities.
 
 ### Support
@@ -36,6 +34,6 @@ Or email us via: akumadarlington@gmail.com
 
 ### Consistency
 
-At Hakuna Tech Ltd,  we're as consistent as the sun, nsuring that what we do best esults in an enviable outcome - professionalism. 
+At Hakuna Tech Ltd,  we're as consistent as the sun, ensuring that what we do best results in a copetitive  outcome - professionalism. 
 
-Collectively,  we believe that "THE LEARNING IS IN THE DOING", that   why we invest lump sum of our resources in training and capacity building of our  employees to ensure and sustain our competitive advantage in the ecosystem.
+Collectively,  we believe that "THE LEARNING IS IN THE DOING" that  is why we invest a lump sum of our resources in training and capacity building of our  employees to ensure and sustain our competitive advantage in the ecosystem.
