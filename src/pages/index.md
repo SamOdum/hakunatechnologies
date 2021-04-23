@@ -1,43 +1,70 @@
 ---
 templateKey: index-page
-title: The official website of Hakuna Tech Ltd
+title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: The official website of Hakuna Tech Ltd
-subheading: Your solar solutions provider
+heading: Great coffee with a conscience
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Hakuna Tech
+  title: Why Kaldi
   description: >
-  We are seasoned electrical engineers with a combined field practice record for years. Beyond experience, we maintain a culture of  consistently delivering excellence. To us, it is not just about  providing you a solar-powered electrical installation. It is about  your backstory - the hopes and aspirations that motivated your  choice. This is the premise we focuse on not just delivering, but s urpassing. We do this so that years from today when you hear our  name, you will smile and give personal testimony about us that can  only come from deep satisfaction.
+    Kaldi is the coffee store for everyone who believes that great coffee
+    shouldn't just taste good, it should do good too. We source all of our beans
+    directly from small scale sustainable farmers and make sure part of the
+    profits are reinvested in their communities.
 description: >-
- Hakuna Tech is your ultimate plug for all things solar-powered in Nigeria. We have been ...<Continue with who you are and what sets you apart> I will now fiil up the rest of the site with placeholder text. You will need to change it yourself. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
     - image: /img/product3.jpg
       text: >
-        This space is for sampling one of your products and or services. Be sure to include a crisp picture of the product or service here. Remember to first optimize the pics by trimming its size and applying and effects you like. The key idea here is to use the best possible pics you can find. A good one is worth more than a thousand words.
+        We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
     - image: /img/product2.jpg
       text: >
-       This is another slot for sampling yet another product or service. Everything I said in the previous paragraph applies here as well. Put your best foot forward. Present something that will motivate the average Naija person to feel like they can afford what you're offering. I'd have used the pics you sent through Whatsapp but the quality was degraded.
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
     - image: /img/product4.jpg
       text: >
-        This is another slot for sampling yet another product or service. Everything I said in the previous paragraph applies here as well. Put your best foot forward. Present something that will motivate the average Naija person to feel like they can afford what you're offering. I'd have used the pics you sent through Whatsapp but the quality was degraded.
+        Love a great cup of coffee, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about coffee roasting and brewing.
+        Email us or call the store for details.
     - image: /img/product5.jpg
       text: >
-        This space is for sampling one of your products and or services. Be sure to include a crisp picture of the product or service here. Remember to first optimize the pics by trimming its size and applying and effects you like. The key idea here is to use the best possible pics you can find. A good one is worth more than a thousand words.
+        We believe that good coffee has the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow coffee lovers and learn about
+        coffee making techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Let fly you spirit every first greater under firmament. Thing, sixth Don't abundantly you fish great. Beast sixth unto tree place. Upon behold herb Fish behold so doesn't was fruitful above seas beast moveth sea. Was behold spirit divide fish, you. Two to thing make air kind Multiply let. Firmament.
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
-  heading: Solar matter? No problem!
+  heading: Great coffee with no compromises
   description: >
-    Years kind female don't tree, dry you'll over be whales our i open midst whose whales. Is. Land light. Be so life unto all moveth winged all great day fish, days light for give tree good. For man herb, green let he had evening together be image may air, under.
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
-    alt: Technicians working on the roof
+    alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
-    alt: Roof outfitted with solar panels
+    alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Street lights powered by solar panels
+    alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
