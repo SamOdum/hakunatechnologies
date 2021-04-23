@@ -8,7 +8,7 @@ mainpitch:
   title: Why Hakuna Tech
   description: >
 We are seasoned electrical engineers with a combined field practice record for years. Beyond experience, we maintain a culture of consistently delivering excellence. To us, it is not just about providing you a solar-powered electrical installation. It is about your backstory - the hopes and aspirations that motivated your choice. This is the premise we focuse on not just delivering, but surpassing. We do this so that years from today when you hear our name, you will smile and give personal testimony about us that can only come from deep satisfaction.
-description: >-
+  description: >-
  Hakuna Tech is your ultimate plug for all things solar-powered in Nigeria. We have been ...<Continue with who you are and what sets you apart> I will now fiil up the rest of the site with placeholder text. You will need to change it yourself. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 intro:
   blurbs:
