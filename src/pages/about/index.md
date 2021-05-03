@@ -1,12 +1,12 @@
 ---
 templateKey: about-page
-title: 'ABOUT US '
+title: "ABOUT US "
 ---
 **Contact**:
 
 Address: 
 
-57 New Market Road Onitsha Anambra state, Nigeria. 
+34 Eliogbolo road, Rumuokoro, Portharcourt Nigeria.
 
 E-mail: akumadarlington@gmail.com 
 
