@@ -15,7 +15,7 @@ tags:
   - "#SDG7"
 ---
 
-In 2015,the United Nations a set of 17 distinct but interrelated goals to guide global development between 2015 and 2030. The goals are called the sustainable development goals(SDG's). 
+In 2015,the United Nations designed a set of 17 distinct but interrelated goals to guide global development between 2015 and 2030. The goals are called the sustainable development goals(SDG's). 
 Now here's where you should pay real attention. 
 Sdg #7 is Affordable and clean energy. 
 Achieving this goal is very crucial to our maintaining a healthy climate   as an economy reliant on the burning of fossil fuel is creating drastic   and negative effects on our environment.
