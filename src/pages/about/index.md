@@ -6,7 +6,8 @@ title: "ABOUT US "
 
 Address: 
 
-34 Eliogbolo road, Rumuodomaya, Portharcourt Nigeria.
+34 Eliogbolo road, 
+zqaRumuodomaya, Portharcourt Nigeria.
 
 E-mail: akumadarlington@gmail.com 
 
