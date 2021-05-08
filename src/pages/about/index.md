@@ -6,7 +6,7 @@ title: "ABOUT US "
 
 Address: 
 
-34 Eliogbolo road, Rumuokoro, Portharcourt Nigeria.
+34 Eliogbolo road, Rumuodomaya, Portharcourt Nigeria.
 
 E-mail: akumadarlington@gmail.com 
 
@@ -26,11 +26,11 @@ At Hakuna Tech, sustainable energy  means harvesting renewable energy  in sustai
 
 ### Support
 
-For complaints and and enquiries call our front desk on +234 7050823802 
+Tel. +234 7050823802 
 
 +234 8038341853 (whatsapp only) 
 
-Or email us via: akumadarlington@gmail.com 
+Email: akumadarlington@gmail.com 
 
 ### Consistency
 
