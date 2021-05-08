@@ -6,11 +6,13 @@ title: "ABOUT US "
 
 Address: 
 
-34 Eliogbolo road, Rumuodomaya, Portharcourt Nigeria.
+34 Eliogbolo road, 
+Rumuodomaya, Portharcourt Nigeria.
 
 E-mail: akumadarlington@gmail.com 
 
-Tel. +2348038341853,  +703104310023
+Tel. +2348038341853,
+     +2347050823802
 
 ### Intergrity
 
@@ -34,6 +36,6 @@ Email: akumadarlington@gmail.com
 
 ### Consistency
 
-At Hakuna Tech Ltd,  we're as consistent as the sun, ensuring that what we do best results in a copetitive  outcome - professionalism. 
+At Hakuna Tech Ltd,  we're as consistent as the sun, ensuring that what we do best results in a competitive  outcome - professionalism. 
 
-Collectively,  we believe that "THE LEARNING IS IN THE DOING" that  is why we invest a lump sum of our resources in training and capacity building of our  employees to ensure and sustain our competitive advantage in the ecosystem.
+Collectively,  we believe that "THE LEARNING IS IN THE DOING" that  is why we invest a lump sum of our resources in training and capacity building of our  employees to ensure and sustain our competitive advantage in the industry.
