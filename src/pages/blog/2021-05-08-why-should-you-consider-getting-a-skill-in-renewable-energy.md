@@ -10,7 +10,7 @@ description: |-
   * Battery
   * Solar Charge Controllers (PWM/MPPT)
 featuredpost: true
-featuredimage: /img/dsc_0618.jpg
+featuredimage: /img/whatsapp-image-2021-04-15-at-12.42.46-pm.jpeg
 tags:
   - "#SDG7"
 ---
