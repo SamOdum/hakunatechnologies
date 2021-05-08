@@ -34,6 +34,6 @@ Email: akumadarlington@gmail.com
 
 ### Consistency
 
-At Hakuna Tech Ltd,  we're as consistent as the sun, ensuring that what we do best results in a copetitive  outcome - professionalism. 
+At Hakuna Tech,  we're as consistent as the sun - ensuring that what we do best results in a copetitive  outcome - professionalism. 
 
 Collectively,  we believe that "THE LEARNING IS IN THE DOING" that  is why we invest a lump sum of our resources in training and capacity building of our  employees to ensure sustained competitive advantage in the industry.
