@@ -7,11 +7,11 @@ title: "ABOUT US "
 Address: 
 
 34 Eliogbolo road, 
-zqaRumuodomaya, Portharcourt Nigeria.
+Rumuodomaya, Portharcourt Nigeria.
 
 E-mail: akumadarlington@gmail.com 
 
-Tel. +2348038341853,  +703104310023
+Tel. +2348038341853,  +2347050823802
 
 ### Intergrity
 
