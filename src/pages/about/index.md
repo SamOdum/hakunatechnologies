@@ -11,7 +11,11 @@ Rumuodomaya, Portharcourt Nigeria.
 
 E-mail: akumadarlington@gmail.com 
 
-Tel. +2348038341853,  +2347050823802
+Tel. 
++2348038341853 
++2347031043100
++2347043824549
++2348031144713
 
 ### Intergrity
 
