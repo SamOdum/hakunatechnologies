@@ -2,7 +2,7 @@
 templateKey: about-page
 title: "ABOUT US "
 ---
-![](/img/whatsapp-image-2021-07-01-at-10.00.35-pm.jpeg)
+![](/img/index.jpg)
 
 **Contact**:
 
