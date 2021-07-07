@@ -8,10 +8,9 @@ title: "ABOUT US "
 
 Address: 
 
-34 Eliogbolo road, 
-Rumuodomaya, Portharcourt Nigeria.
+7 Emekuku street, D Line ,Port Harcourt, Rivers State, Nigeria.
 
-E-mail: akumadarlington@gmail.com 
+E-mail: talktohakuna@gmail.com. 
 
 Tel. 
 +2348038341853 
